@@ -1,2 +1,3 @@
 # PreCourse-Henry
-este es un repositorio de prueba
+aqui hicimos el cambio de prueba para hacer que funcione el repositorio
+mi nombre es samir aldana nizama
